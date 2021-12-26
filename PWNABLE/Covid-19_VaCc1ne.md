@@ -4,7 +4,7 @@
 * [netcat](https://whackur.tistory.com/166 "관련 사이트") 다운후
 * nc 34.125.134.97 3344
 
-![alt netcat](URL)
+![alt netcat](https://github.com/simnple/Christmas_ctf/blob/main/PWNABLE/imgs/NetCat.PNG)
 
 ```
 Flag: Christmas{covid_19_Vaccine_1s_AstraZeneca}
