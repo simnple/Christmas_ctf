@@ -1,6 +1,6 @@
 * challenge.jpg 를 열어볼게요.
 
-![alt r1](https://github.com/simnple/Christmas_ctf/blob/main/MISC/imgs/r1.png)
+![alt r1](https://github.com/simnple/Christmas_ctf/blob/main/MISC/imgs/r1.jpg)
 * 산타 텔미 뮤직비디오에 나오시는분이 계시는거 말고는 단서가 없네요.
 * 포렌식을 해봐야겠습니다.
 * URL: https://29a.ch/photo-forensics/#forensic-magnifier
