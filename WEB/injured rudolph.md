@@ -3,7 +3,7 @@
 ![alt Injured1](https://github.com/simnple/Christmas_ctf/blob/main/WEB/imgs/Injured1.png)
 * 엄청 평범한 사이트네요.
 
-![alt Injured2](https://github.com/simnple/Christmas_ctf/blob/main/WEB/imgs/Injured2.png)
+![alt Injured2](https://github.com/simnple/Christmas_ctf/blob/main/WEB/imgs/injured2.png)
 * 소스코드를 보니 떡밥이 있는것 같았어요.
 * request=santa
 
