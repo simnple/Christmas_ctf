@@ -1,6 +1,6 @@
 * cipher.txt 파일을 열어볼게요.
 
-![alt Li1](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Li1.PNG)
+![alt Li1](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Li1.PNG)<br>
 ```Xsirhgnzh{o1XvmHV_k1ZGv_ZAN9590}```
 * 먼가 형식은.. 앞쪽은 무조건 Christmas{ 일꺼같은데..
 

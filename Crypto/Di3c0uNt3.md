@@ -1,6 +1,6 @@
 * cipher.txt 파일을 열어볼게요.
 
-![alt Di1](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Di1.png)
+![alt Di1](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Di1.png)<br>
 ```MzAgMzEgMzAgMzEgMzAgMzAgMzAgMzEgMjAgMzAgMzAgMzEgMzEgMzAgMzAgMzEgMzAgMjAgMzAgMzEgMzEgMzAgMzEgMzAgMzAgMzAgMjAgMzAgMzEgMzEgMzEgMzEgMzAgMzAgMzEgMjAgMzAgMzEgMzEgMzAgMzAgMzAgMzAgMzEgMjAgMzAgMzEgMzAgMzEgMzEgMzAgMzAgMzAgMjAgMzAgMzEgMzAgMzAgMzEgMzEgMzEgMzAgMjAgMzAgMzAgMzEgMzEgMzAgMzAgMzAgMzAgMjAgMzAgMzEgMzEgMzAgMzAgMzAgMzEgMzAgMjAgMzAgMzEgMzAgMzEgMzAgMzEgMzEgMzEgMjAgMzAgMzEgMzAgMzAgMzAgMzEgMzEgMzAgMjAgMzAgMzEgMzEgMzEgMzEgMzAgMzEgMzAgMjAgMzAgMzEgMzEgMzAgMzAgMzEgMzAgMzEgMjAgMzAgMzAgMzEgMzEgMzAgMzAgMzAgMzAgMjAgMzAgMzEgMzAgMzEgMzAgMzAgMzEgMzAgMjAgMzAgMzEgMzEgMzEgMzAgMzAgMzAgMzAgMjAgMzAgMzEgMzAgMzAgMzEgMzEgMzAgMzEgMjAgMzAgMzAgMzEgMzEgMzAgMzAgMzEgMzAgMjAgMzAgMzEgMzAgMzAgMzEgMzEgMzAgMzEgMjAgMzAgMzEgMzEgMzEgMzAgMzEgMzEgMzEgMjAgMzAgMzEgMzEgMzAgMzAgMzEgMzAgMzAgMjAgMzAgMzEgMzAgMzEgMzAgMzEgMzAgMzEgMjAgMzAgMzAgMzEgMzEgMzAgMzEgMzAgMzEgMjAgMzAgMzAgMzEgMzEgMzAgMzAgMzAgMzAgMjAgMzAgMzEgMzAgMzAgMzEgMzEgMzAgMzEgMjAgMzAgMzAgMzEgMzEgMzAgMzAgMzAgMzEgMjAgMzAgMzAgMzEgMzEgMzEgMzAgMzAgMzEgMjAgMzAgMzEgMzAgMzAgMzAgMzAgMzEgMzAgMjAgMzAgMzEgMzEgMzAgMzAgMzAgMzEgMzEgMjAgMzAgMzEgMzEgMzAgMzEgMzAgMzEgMzAgMjAgMzAgMzEgMzAgMzAgMzEgMzEgMzEgMzAgMjAgMzAgMzEgMzEgMzAgMzAgMzEgMzEgMzAgMjAgMzAgMzEgMzAgMzEgMzAgMzAgMzAgMzEgMjAgMzAgMzEgMzAgMzEgMzAgMzEgMzEgMzEgMjAgMzAgMzEgMzEgMzEgMzEgMzAgMzAgMzAgMjAgMzAgMzEgMzAgMzEgMzEgMzAgMzAgMzAgMjAgMzAgMzEgMzAgMzEgMzEgMzAgMzAgMzEgMjAgMzAgMzEgMzAgMzEgMzEgMzAgMzAgMzAgMjAgMzAgMzEgMzEgMzAgMzEgMzAgMzEgMzEgMjAgMzAgMzEgMzEgMzEgMzEgMzAgMzEgMzAgMjAgMzAgMzEgMzAgMzEgMzEgMzAgMzAgMzAgMjAgMzAgMzAgMzEgMzEgMzAgMzAgMzAgMzAgMjAgMzAgMzEgMzEgMzAgMzAgMzAgMzEgMzEgMjAgMzAgMzEgMzEgMzEgMzAgMzEgMzEgMzEgMjAgMzAgMzEgMzEgMzAgMzAgMzAgMzEgMzAgMjAgMzAgMzAgMzEgMzEgMzAgMzAgMzEgMzAgMjAgMzAgMzEgMzAgMzEgMzAgMzAgMzEgMzAgMjAgMzAgMzAgMzEgMzEgMzEgMzAgMzAgMzE=
 ```
 * 위에 있는게 무슨 암호화인지 모르니까 (뒤에 =을 봐서는 base64의 암호화로 추측)
@@ -9,16 +9,16 @@
 * 위 사이트에 대입을 해볼게요.
 
 ![alt Di2](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Di2.PNG)
-* 그럼 base64 decode가 정말 깔끔하게 나오는것을 볼 수 있습니다.
+* 그럼 base64 decode가 정말 깔끔하게 나오는것을 볼 수 있습니다.<br>
 ```30 31 30 31 30 30 30 31 20 30 30 31 31 30 30 31 30 20 30 31 31 30 31 30 30 30 20 30 31 31 31 31 30 30 31 20 30 31 31 30 30 30 30 31 20 30 31 30 31 31 30 30 30 20 30 31 30 30 31 31 31 30 20 30 30 31 31 30 30 30 30 20 30 31 31 30 30 30 31 30 20 30 31 30 31 30 31 31 31 20 30 31 30 30 30 31 31 30 20 30 31 31 31 31 30 31 30 20 30 31 31 30 30 31 30 31 20 30 30 31 31 30 30 30 30 20 30 31 30 31 30 30 31 30 20 30 31 31 31 30 30 30 30 20 30 31 30 30 31 31 30 31 20 30 30 31 31 30 30 31 30 20 30 31 30 30 31 31 30 31 20 30 31 31 31 30 31 31 31 20 30 31 31 30 30 31 30 30 20 30 31 30 31 30 31 30 31 20 30 30 31 31 30 31 30 31 20 30 30 31 31 30 30 30 30 20 30 31 30 30 31 31 30 31 20 30 30 31 31 30 30 30 31 20 30 30 31 31 31 30 30 31 20 30 31 30 30 30 30 31 30 20 30 31 31 30 30 30 31 31 20 30 31 31 30 31 30 31 30 20 30 31 30 30 31 31 31 30 20 30 31 31 30 30 31 31 30 20 30 31 30 31 30 30 30 31 20 30 31 30 31 30 31 31 31 20 30 31 31 31 31 30 30 30 20 30 31 30 31 31 30 30 30 20 30 31 30 31 31 30 30 31 20 30 31 30 31 31 30 30 30 20 30 31 31 30 31 30 31 31 20 30 31 31 31 31 30 31 30 20 30 31 30 31 31 30 30 30 20 30 30 31 31 30 30 30 30 20 30 31 31 30 30 30 31 31 20 30 31 31 31 30 31 31 31 20 30 31 31 30 30 30 31 30 20 30 30 31 31 30 30 31 30 20 30 31 30 31 30 30 31 30 20 30 30 31 31 31 30 30 31```
 * 위에 글자는 Hex니까 string으로 바꿔봐요.
 
-![alt Di3](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Di3.png)
+![alt Di3](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Di3.png)<br>
 ```01010001 00110010 01101000 01111001 01100001 01011000 01001110 00110000 01100010 01010111 01000110 01111010 01100101 00110000 01010010 01110000 01001101 00110010 01001101 01110111 01100100 01010101 00110101 00110000 01001101 00110001 00111001 01000010 01100011 01101010 01001110 01100110 01010001 01010111 01111000 01011000 01011001 01011000 01101011 01111010 01011000 00110000 01100011 01110111 01100010 00110010 01010010 00111001```
 * string으로 바꾼 글자들이 바이너리 코드로 나오네요.
 * 한번더 해봅시다.
 
-![alt Di4](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Di4.png)
+![alt Di4](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Di4.png)<br>
 ```Q2hyaXN0bWFze0RpM2MwdU50M19BcjNfQWxXYXkzX0cwb2R9```
 * 그랬더니 위 사진과 같이 이상한 글자들이 보이네요.
 * 마지막으로 한번더 해봅시다.

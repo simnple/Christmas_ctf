@@ -1,6 +1,6 @@
 * cipher.txt 파일을 열어볼게요.
 
-![alt Gi1](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Gi1.png)
+![alt Gi1](https://github.com/simnple/Christmas_ctf/blob/main/Crypto/imgs/Gi1.png)<br>
 ```r9C:DE>2DL`EVa0E9b0q6bE04wC`DE>pD08`uE02}50`EVDN```
 * 생전 처음보는 암호문이 나오네요.
 
