@@ -1,4 +1,4 @@
-![alt Feedback](/imgs/Feedback.png)
+![alt Feedback](Announcements/imgs/Feedback.png)
 
 - URL: https://form.office.naver.com/form/responseView.cmd?formkey=NzA5ZmI1NTYtNWFlMS00OGNkLTk1MjQtZjNkMTZhOGQzMTFj&sourceId=urlshare
 
