@@ -6,7 +6,7 @@
 
 ![alt Co2](https://github.com/simnple/Christmas_ctf/blob/main/FORENSIC/imgs/Co2.png)
 * png 파일은 맞는것같아요.
-* 두번째줄에 세로 가로 크기들이 쓰여있으니,
+* 두번째줄에 세로 가로 크기들이 쓰여있으니 + IHDR 청크,
 * 근데 파일 시그니처인 ``` 89 50 4E 47 0D 0A 1A 0A ``` 이 안보이네요.
 
 ![alt Co3](https://github.com/simnple/Christmas_ctf/blob/main/FORENSIC/imgs/Co3.PNG)
