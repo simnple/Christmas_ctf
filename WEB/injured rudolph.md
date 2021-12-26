@@ -15,6 +15,7 @@
 * 이건 엄청난 힌트였죠
 
 * 그래서 [SSTI 공격 예제](https://me2nuk.com/SSTI-Vulnerability/ "SSTI 공격")를 보며 했더니
+* santa={{ Config }}
 
 ![alt Injured4](https://github.com/simnple/Christmas_ctf/blob/main/WEB/imgs/Injured4.png)
 ```
