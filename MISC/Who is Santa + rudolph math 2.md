@@ -8,7 +8,7 @@
 1. 산타는 역시 산타죠. santa
 2. 먼지 몰라서 구글에 쳐보겠습니다.
 
-![alt Who1](https://github.com/simnple/Christmas_ctf/blob/main/MISC/imgs/Who1.png)
+![alt Who1](https://github.com/simnple/Christmas_ctf/blob/main/MISC/imgs/Who1.png)<br>
 오. 나왔다
 
 ```
