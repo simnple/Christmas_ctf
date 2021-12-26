@@ -1,4 +1,4 @@
-![alt Discord](/imgs/Discord.png)
+![alt Discord](Announcements/imgs/Discord.png)
 
 Christmas CTF 디스코드를 접속해요.
 그 후 Rules 채널에 들어가면 설명란에 Flag가 존재해요.
