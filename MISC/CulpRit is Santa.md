@@ -16,8 +16,8 @@
 * 기록을 눌러주면
 
 ![alt Cu4](https://github.com/simnple/Christmas_ctf/blob/main/MISC/imgs/Cu4.png)
-* 수정 기록이 두개나 있다.
-* 위에껀 방금 내가 본거일테니 두번째껄 눌러보겠다.
+* 수정 기록이 두개나 있네요
+* 위에껀 방금 내가 본거일테니 두번째껄 눌러보겠습니다.
 
 ![alt Cu5](https://github.com/simnple/Christmas_ctf/blob/main/MISC/imgs/Cu5.png)
 ```
